@@ -1,0 +1,1 @@
+FROM 12.6.2-cudnn-runtime-ubi9
